@@ -1,0 +1,67 @@
+.teamMemberImg{
+    width: 100%;
+    height: fit-content;
+    display: flex;
+}
+
+.teamMemberBody{
+    height: fit-content;
+    width: 20vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 2rem;
+    border-radius: 8px;
+    box-shadow: 0px 0px 1px 0px;
+}
+
+.teamMemberImg > img{
+    width: 100%;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+
+.name{
+    color: hsl(219deg 90% 24%);
+    margin-top: 0.5rem;
+    font-size: large;
+    font-weight: 500;
+}
+
+.position{
+    text-align: center;
+    font-size: small;
+    opacity: 0.5;
+    color: rgba(0, 0, 0, 0.63);
+}
+
+.quote{
+    font-style: italic;
+    text-align: center;
+    margin: 2rem;
+    opacity: 0.75;
+    font-size: small;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

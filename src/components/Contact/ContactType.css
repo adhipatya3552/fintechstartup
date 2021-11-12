@@ -1,0 +1,21 @@
+.contactTypeContainer{
+    width: 20vw;
+    padding: 2rem;
+    background-color: #1595e513;
+    margin: 2rem;
+}
+
+.contactTypeIcon{
+    font-size: xx-large;
+    color: #1597E5;
+}
+
+.type{
+    font-size: x-large;
+    font-weight: 700;
+    color: #113CFC;
+}
+
+.info{
+    opacity: 0.75;
+}

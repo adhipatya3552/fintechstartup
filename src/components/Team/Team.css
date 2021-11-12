@@ -1,0 +1,23 @@
+.teamContainer{
+    margin-bottom: 2vw;
+    padding: 4vw;
+    border-bottom: 1px solid lavender;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.teamSmallTitle{
+    color: hsl(230deg 87% 66%);
+}
+
+.row{
+    display: flex;
+}
+
+.teamTitle{
+    font-size: x-large;
+    font-weight: 800;
+    color: #113CFC;
+    margin: 1rem 0;
+}

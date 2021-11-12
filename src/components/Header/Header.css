@@ -1,0 +1,39 @@
+.content{
+    height: 70vh;
+    padding: 4vw;
+    align-self: center;
+    justify-content: center;
+    display: flex;
+    border-bottom: 1px solid lavender;
+}
+
+.title > h1{
+    font-size: 54px;
+    font-weight: 500;
+    color: #113CFC;
+    line-height: 4rem;
+}
+
+.title > h3{
+    color: grey;
+    margin-top: 2vw;
+    opacity: 75%;
+    font-weight: 400;
+}
+
+.headerImg{
+    display: flex;
+    align-self: flex-end;
+    justify-content: flex-end;
+}
+
+.title > button{
+    margin-top: 2rem;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+    border: none;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    background-color: #1597E5;
+}

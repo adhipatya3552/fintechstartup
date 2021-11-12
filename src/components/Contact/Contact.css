@@ -1,0 +1,23 @@
+.contactContainer{
+    margin-bottom: 2vw;
+    padding: 4vw;
+    border-bottom: 1px solid lavender;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.contactSmallTitle{
+    color: hsl(230deg 87% 66%);
+}
+
+.contactTitle{
+    font-size: x-large;
+    font-weight: 800;
+    color: #113CFC;
+    margin: 1rem 0;
+}
+
+.row{
+    display: flex;
+}
