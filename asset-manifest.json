@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/github.io/fintechstartup/static/css/main.59d1a19d.chunk.css",
+    "main.js": "/github.io/fintechstartup/static/js/main.7ba50a84.chunk.js",
+    "main.js.map": "/github.io/fintechstartup/static/js/main.7ba50a84.chunk.js.map",
+    "runtime-main.js": "/github.io/fintechstartup/static/js/runtime-main.73b33304.js",
+    "runtime-main.js.map": "/github.io/fintechstartup/static/js/runtime-main.73b33304.js.map",
+    "static/js/2.dc5d1c40.chunk.js": "/github.io/fintechstartup/static/js/2.dc5d1c40.chunk.js",
+    "static/js/2.dc5d1c40.chunk.js.map": "/github.io/fintechstartup/static/js/2.dc5d1c40.chunk.js.map",
+    "index.html": "/github.io/fintechstartup/index.html",
+    "static/css/main.59d1a19d.chunk.css.map": "/github.io/fintechstartup/static/css/main.59d1a19d.chunk.css.map",
+    "static/js/2.dc5d1c40.chunk.js.LICENSE.txt": "/github.io/fintechstartup/static/js/2.dc5d1c40.chunk.js.LICENSE.txt",
+    "static/media/Header.css": "/github.io/fintechstartup/static/media/1.2bd7bbaf.png",
+    "static/media/2.e801deb7.jpg": "/github.io/fintechstartup/static/media/2.e801deb7.jpg",
+    "static/media/3.979c38b1.jpg": "/github.io/fintechstartup/static/media/3.979c38b1.jpg",
+    "static/media/4.d5649d5b.jpg": "/github.io/fintechstartup/static/media/4.d5649d5b.jpg",
+    "static/media/5.8be48312.jpg": "/github.io/fintechstartup/static/media/5.8be48312.jpg",
+    "static/media/6.5582403d.jpg": "/github.io/fintechstartup/static/media/6.5582403d.jpg",
+    "static/media/7.5c9432d5.jpeg": "/github.io/fintechstartup/static/media/7.5c9432d5.jpeg",
+    "static/media/8.87df29f8.jpeg": "/github.io/fintechstartup/static/media/8.87df29f8.jpeg",
+    "static/media/9.527b0f7d.jpeg": "/github.io/fintechstartup/static/media/9.527b0f7d.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.73b33304.js",
+    "static/js/2.dc5d1c40.chunk.js",
+    "static/css/main.59d1a19d.chunk.css",
+    "static/js/main.7ba50a84.chunk.js"
+  ]
+}
